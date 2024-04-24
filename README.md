@@ -48,7 +48,7 @@ Replace the placeholders accordingly. Then run the pb_agent_os.py and the system
 
 Example Output with gpt-4-turbo:
 
-\```plaintext
+```bash
 Openai Model set to: gpt-4-turbo
 
 Promptname:
@@ -62,7 +62,7 @@ Promptinstruction:
 1. Integrate ChatSphere🌀 into your group chat platform using the provided API or installation guide. 2. Configure ChatSphere🌀 settings to align with your group's needs, such as moderation rules, engagement metrics, and notification preferences. 3. Train team members or moderators on how to use ChatSphere🌀 features for managing conversations, such as thread splitting, user tagging, and automated responses. 4. Actively monitor ChatSphere🌀 analytics to understand chat dynamics and make adjustments to settings and strategies as needed. 5. Encourage feedback from users to continuously improve the group chat experience using ChatSphere🌀.
 Prompttest:
 In a corporate group chat, ChatSphere🌀 is used to monitor engagement levels, identifying the most active hours and topics. This data helps managers plan communications more effectively and engage users at optimal times.
-\```
+```
 
 ## License
 
