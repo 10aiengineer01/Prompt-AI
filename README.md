@@ -4,13 +4,6 @@
 
 Prompt-AI is a tool that generates unique prompts every time, complete with all the necessary credentials required to upload them onto platforms like Promptbase. With Prompt-AI, you can create prompts and all information with no effort.
 
-## Features
-
-- **Automated Creation:** Generation of newsletters based on specified topics or interests.
-- **Content Search:** Automatic collection of information using DuckDuckGo and Browserless API.
-- **Image Generation:** Creation of topic-related images for each newsletter.
-- **Formatting and Dispatch:** Professional formatting of the newsletter and dispatch via an Outlook SMTP server.
-
 ## Technologies and Tools
 
 - **Crewai:** For the creation of the agent workflow.
